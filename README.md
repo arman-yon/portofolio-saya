@@ -2,7 +2,7 @@
 Welcome to my professional portfolio repository.
 This repository reflects my career journey from administrative staff to store leader, business management graduate (GPA 3.87), and currently working as a tutor and freelancer.
 
-About Me
+- About Me
 I am a Business Management graduate with strong experience in administration, retail operations, and customer service. I started my career as an administrative staff and gradually developed leadership skills through years of working in the retail industry.
 
 I believe that growth comes from discipline, adaptability, and the willingness to learn. My experience as a Store Leader helped me build strong communication skills, leadership mindset, and problem-solving abilities in real work situations.
@@ -11,7 +11,7 @@ Currently, I am looking for new professional opportunities where I can grow, con
 
 - What You Can Find in This Repository
 This repository contains my complete professional portfolio, including:
-* ATS CV (1-page professional format)
+* ATS CV
 * Professional Portfolio (PDF version)
 * Work Experience Summary
 * Skills and Certifications
