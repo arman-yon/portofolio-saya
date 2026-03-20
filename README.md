@@ -3,7 +3,6 @@ Welcome to my professional portfolio repository.
 This repository reflects my career journey from administrative staff to store leader, business management graduate (GPA 3.87), and currently working as a tutor and freelancer.
 
 About Me
-
 I am a Business Management graduate with strong experience in administration, retail operations, and customer service. I started my career as an administrative staff and gradually developed leadership skills through years of working in the retail industry.
 
 I believe that growth comes from discipline, adaptability, and the willingness to learn. My experience as a Store Leader helped me build strong communication skills, leadership mindset, and problem-solving abilities in real work situations.
@@ -20,13 +19,11 @@ This repository contains my complete professional portfolio, including:
 * Writing Portfolio
 * Career Development Materials
 
-
 - Education
 Bachelor of Business Management Universitas Bina Nusantara (BINUS)
 GPA: 3.87
 
 - Work Experience
-
 *Store Leader (2020 – 2023)
 Responsible for store operations, team coordination, customer service, and sales performance.
 *Shopkeeper (2014 – 2020)
@@ -39,6 +36,7 @@ Handled company administrative documents, data organization, and office administ
 * Retail Operations
 * Customer Service
 * Microsoft Excel (HLOOKUP, SUM, AVERAGE)
+* Microsift Words
 * Administration
 * Leadership
 * Communication Skills
@@ -61,10 +59,3 @@ My goal is to grow in a professional company where I can contribute through disc
 - Contact
 Email: armanyon7@gmail.com
 Phone: +62 895-1792-1232
----
-
-Kalau kamu mau, aku bisa lanjutkan dengan:
-
-* versi **README yang lebih modern (dengan icon & layout menarik)**
-* versi **README bahasa Inggris full corporate style**
-* atau versi **yang terlihat seperti portfolio developer internasional** 🚀
