@@ -24,12 +24,13 @@ Bachelor of Business Management Universitas Bina Nusantara (BINUS)
 GPA: 3.87
 
 ## Work Experience
-*Store Leader (2020 – 2023)
+## Store Leader (2020 – 2023)
 -Responsible for store operations, team coordination, customer service, and sales performance.
-*Shopkeeper (2014 – 2020)
+## Shopkeeper (2014 – 2020)
 -Experienced in customer service, sales transactions, and store operations.
-*Administrative Staff (2008 – 2014)
+## Administrative Staff (2008 – 2014)
 -Handled company administrative documents, data organization, and office administration.
+## Tutor Calistung (2024-2026)
 
 ## Skills
 * Business Management
@@ -58,3 +59,4 @@ My goal is to grow in a professional company where I can contribute through disc
 ## Contact
 Email: armanyon7@gmail.com
 Phone: +62 895-1792-1232
+Tiktok: the.harvest7
